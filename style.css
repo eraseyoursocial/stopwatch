@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.wrapper {
+  margin: 200px auto;
+  text-align: center;
+}
+
+.timer {
+  max-width: 285px;
+  margin: 200px auto 50px;
+  font-size: 4.6em;
+}
+
+.buttons button {
+  min-width: 120px;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.6em;
+  margin: 5px;
+  padding: 10px;
+  color: white;
+  background-color: rgb(30, 0, 235);
+  cursor: pointer;
+}
