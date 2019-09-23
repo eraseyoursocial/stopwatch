@@ -2,7 +2,6 @@ const startBtn = document.querySelector('.start');
 const stopBtn = document.querySelector('.stop');
 const resetBtn = document.querySelector('.reset');
 const timer = document.querySelector('.timer');
-const tree = 0;
 
 let time = 0, timeUpdated, interval, offset, now, up = false;
 
